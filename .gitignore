@@ -13,3 +13,6 @@ media
 /.vscode
 /.idea
 demo/settings.py
+
+scripts/deploy-in-raspberry.sh
+db.sqlite3
